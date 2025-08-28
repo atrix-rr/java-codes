@@ -11,7 +11,7 @@ class interest
         System.out.println("ENTER TIME");
         int t=scanner.nextInt();
         int si=(p*r*t)/100;
-        System.out.prntln("SIMPLE INTEREST IS:"+si);
+        System.out.println("SIMPLE INTEREST IS:"+si);
     }
 }
                              

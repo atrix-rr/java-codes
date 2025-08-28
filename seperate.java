@@ -5,7 +5,7 @@ class seperate
     {
         Scanner scanner=new Scanner(System.in);
         System.out.println("ENTER AN EVEN DIGIT NO.");
-        int NUM=scanner.nextInt();
+        int num=scanner.nextInt();
         
 
     }

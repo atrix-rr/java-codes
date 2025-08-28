@@ -13,5 +13,7 @@ class digit
         b=b*b*b;
         System.out.println("Cube of tens digit:"+a);
         System.out.println("Cube of ones digit:"+b);
+    
+        scanner.close();
     }
 }
