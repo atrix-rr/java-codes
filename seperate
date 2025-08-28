@@ -1,0 +1,12 @@
+import java.util.Scanner;
+class seperate
+{
+    public static void main(String args[])
+    {
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("ENTER AN EVEN DIGIT NO.");
+        int NUM=scanner.nextInt();
+        
+
+    }
+}
